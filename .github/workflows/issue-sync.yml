@@ -1,0 +1,23 @@
+name: Sync GitHub issues with Discord
+
+on: 
+  issues:
+    types: [opened, edited, closed, deleted, locked, unlocked]
+
+jobs:
+  issues-sync:
+    runs-on: ubuntu-24.04
+    environment: "Issues Sync"
+    name: Sync issue
+    steps:
+      - name: Sync issue with Discord
+        id: sync-issue
+        uses: DaDragonDen/issues-sync@main
+        with:
+          discord-token: ${{ secrets.ISSUES_SYNC_DISCORD_TOKEN }}
+          discord-channel-id: ${{ vars.ISSUES_SYNC_DISCORD_CHANNEL_ID }}
+          project-id: ${{ vars.ISSUES_SYNC_GITHUB_PROJECT_ID }}
+          field-name: ${{ vars.ISSUES_SYNC_GITHUB_PROJECT_FIELD_NAME }}
+          github-app-id: ${{ vars.ISSUES_SYNC_GITHUB_APP_ID }}
+          github-app-private-key: ${{ secrets.ISSUES_SYNC_GITHUB_APP_PRIVATE_KEY }}
+          github-app-installation-id: ${{ vars.ISSUES_SYNC_GITHUB_INSTALLATION_ID }}
