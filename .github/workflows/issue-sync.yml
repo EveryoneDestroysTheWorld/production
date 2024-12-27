@@ -49,5 +49,5 @@ jobs:
           github-project-field-id: ${{ steps.convert_project_field_name_to_ID.outputs.GITHUB_PROJECT_FIELD_ID }}
           github-app-id: ${{ vars.ISSUES_SYNC_GITHUB_APP_ID }}
           github-app-private-key: ${{ secrets.ISSUES_SYNC_GITHUB_APP_PRIVATE_KEY }}
-          github-app-installation-id: ${{ vars.ISSUES_SYNC_GITHUB_INSTALLATION_ID }}
+          github-app-installation-id: ${{ vars.ISSUES_SYNC_GITHUB_APP_INSTALLATION_ID }}
 
