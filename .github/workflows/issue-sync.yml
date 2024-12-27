@@ -33,7 +33,7 @@ jobs:
         if: steps.convert_project_number_to_id.outputs.GITHUB_PROJECT_ID != 0 && steps.convert_issue_number_to_project_item_id.outputs.GITHUB_PROJECT_ITEM_ID != 0
         with:
           github-project-id: ${{ steps.convert_project_number_to_id.outputs.GITHUB_PROJECT_ID }}
-          github-project-field-name: "Discord discussion link"
+          github-project-field-name: ${{ vars.ISSUES_SYNC_GITHUB_PROJECT_FIELD_NAME }}
           github-app-id: ${{ vars.ISSUES_SYNC_GITHUB_APP_ID }}
           github-app-private-key: ${{ secrets.ISSUES_SYNC_GITHUB_APP_PRIVATE_KEY }}
           github-app-installation-id: ${{ vars.ISSUES_SYNC_GITHUB_INSTALLATION_ID }}
