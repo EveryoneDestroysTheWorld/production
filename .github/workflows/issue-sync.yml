@@ -44,6 +44,7 @@ jobs:
         with:
           discord-token: ${{ secrets.ISSUES_SYNC_DISCORD_TOKEN }}
           discord-channel-id: ${{ vars.ISSUES_SYNC_DISCORD_CHANNEL_ID }}
+          discord-user-map: ${{ vars.ISSUES_SYNC_DISCORD_USER_MAP }}
           github-project-id: ${{ steps.convert_project_number_to_id.outputs.GITHUB_PROJECT_ID }}
           github-project-item-id: ${{ steps.convert_issue_number_to_project_item_id.outputs.GITHUB_PROJECT_ITEM_ID }}
           github-project-field-id: ${{ steps.convert_project_field_name_to_ID.outputs.GITHUB_PROJECT_FIELD_ID }}
