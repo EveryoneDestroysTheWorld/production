@@ -2,7 +2,7 @@ name: Sync GitHub issues with Discord
 
 on: 
   issues:
-    types: [opened, edited, closed, deleted, locked, unlocked]
+    types: [opened, edited, closed, deleted, locked, unlocked, assigned, unassigned]
 
 jobs:
   issues-sync:
