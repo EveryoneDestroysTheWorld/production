@@ -122,7 +122,7 @@ Christian Toney
       <td>Providing a game engine and cloud services for free</td>
     </tr>
     <tr>
-      <td>Superpower Wiki</td>
+      <td>Superpower Wiki and TV Tropes contributors</td>
       <td>Providing a free database for archetype inspiration</td>
     </tr>
     <tr>
