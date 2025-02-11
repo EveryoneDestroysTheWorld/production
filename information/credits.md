@@ -102,20 +102,12 @@ Christian Toney
   </thead>
   <tbody>
     <tr>
-      <td>Trawmisha Lewis</td>
-      <td>Providing love and advice</td>
+      <td>Cloudflare, Inc.</td>
+      <td>Providing DDoS protection services for free</td>
     </tr>
     <tr>
       <td>Discord, Inc.</td>
-      <td>Providing a place to talk about the project</td>
-    </tr>
-    <tr>
-      <td>Roblox Corporation</td>
-      <td>Providing a game engine and multiplayer services for free</td>
-    </tr>
-    <tr>
-      <td>Cloudflare, Inc.</td>
-      <td>Providing DDoS protection services for free</td>
+      <td>Providing a place to talk talk about the project</td>
     </tr>
     <tr>
       <td>GitHub, Inc.</td>
@@ -124,6 +116,18 @@ Christian Toney
     <tr>
       <td>Microsoft Corporation</td>
       <td>Providing Visual Studio Code for free</td>
+    </tr>
+    <tr>
+      <td>Roblox Corporation</td>
+      <td>Providing a game engine and cloud services for free</td>
+    </tr>
+    <tr>
+      <td>Superpower Wiki</td>
+      <td>Providing a free database for archetype inspiration</td>
+    </tr>
+    <tr>
+      <td>Trawmisha Lewis</td>
+      <td>Providing love and advice</td>
     </tr>
   </tbody>
 </table>
