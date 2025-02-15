@@ -48,45 +48,13 @@ Christian Toney
 <table>
   <thead>
     <tr>
-      <th>Character</th>
       <th>Person</th>
+      <th>Characters</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Entro</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>The Announcer</td>
       <td>Christian Toney</td>
-    </tr>
-    <tr>
-      <td>Tolsmyth</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>The Manager</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>Security Guard #1</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>Security Guard #2</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>Satisfied Customer</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>Team Carrier</td>
-      <td>InkyTheBlue</td>
-    </tr>
-    <tr>
-      <td>Item Hunter</td>
       <td>TBD</td>
     </tr>
   </tbody>
