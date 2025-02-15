@@ -105,7 +105,7 @@ Christian Toney
 </table>
 
 ## Developed by
-Everyone Destroys the World Group
+The Everyone Destroys the World Group
 
 ## Published by
 Beastslash LLC
