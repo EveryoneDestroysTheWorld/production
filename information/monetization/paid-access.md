@@ -13,3 +13,4 @@ This game will be paid access at 200 Robux.
   * Charging too low may result in a loss.
   * The company should avoid using local currency as payment. Roblox only has a Robux wallet; customers would have to directly use their credit/debit card to purchase the game, something that is currently uncommon on Roblox.  
 * This price is mainly for the story and customization features. The demo has access to live-service game modes as long as the demo player is in a party with a paying player.
+* Beastslash should focus less on microtransactions and more on gameplay when possible.
