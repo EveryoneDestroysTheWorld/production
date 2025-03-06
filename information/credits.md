@@ -58,6 +58,10 @@ Christian Toney
       <td>SE-4942</td>
     </tr>
     <tr>
+      <td>Brayden Hadley</td>
+      <td>Commander Wolf</td>
+    </tr>
+    <tr>
       <td>InkyTheBlue</td>
       <td>TBD</td>
     </tr>
