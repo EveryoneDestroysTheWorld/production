@@ -87,7 +87,7 @@ Christian Toney
     </tr>
     <tr>
       <td>Discord, Inc.</td>
-      <td>Providing a place to talk talk about the project</td>
+      <td>Providing a place to talk about the project</td>
     </tr>
     <tr>
       <td>GitHub, Inc.</td>
@@ -100,6 +100,10 @@ Christian Toney
     <tr>
       <td>Roblox Corporation</td>
       <td>Providing a game engine and cloud services for free</td>
+    </tr>
+    <tr>
+      <td>Rojo contributors</td>
+      <td>Providing a bridge between Git and Roblox</td>
     </tr>
     <tr>
       <td>Superpower Wiki and TV Tropes contributors</td>
