@@ -82,6 +82,10 @@ Christian Toney
       <td>Providing DDoS protection services for free</td>
     </tr>
     <tr>
+      <td>CMU Film Society</td>
+      <td>Marketing assistance</td>
+    </tr>
+    <tr>
       <td>Discord, Inc.</td>
       <td>Providing a place to talk talk about the project</td>
     </tr>
