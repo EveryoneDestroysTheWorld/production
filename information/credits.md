@@ -82,6 +82,10 @@ Christian Toney
       <td>Providing DDoS protection services for free</td>
     </tr>
     <tr>
+      <td>Central Beats</td>
+      <td>Providing feedback on the soundtrack</td>
+    </tr>
+    <tr>
       <td>CMU Film Society</td>
       <td>Marketing assistance</td>
     </tr>
