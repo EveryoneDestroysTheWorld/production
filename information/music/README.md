@@ -1,4 +1,7 @@
 # Music
+> [!WARNING]
+> The game is currently under development, so this article may sometimes become outdated or update frequently.
+
 ## Album name
 The album is called "Everyone Destroys the World Soundtrack".
 
