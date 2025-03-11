@@ -1,4 +1,13 @@
 # Credits
+> [!WARNING]
+> The game is currently under development, so this article may sometimes become outdated or update frequently.
+
+> [!NOTE]
+> Collaborator names should be listed in alphabetical order. First names are prioritized.
+
+> [!NOTE]
+> If only one person is credited to a role, the role name should be singular; otherwise, it should be plural.
+
 This is a list of credits, including collaborators and contributors from the past and present. For a list of the current team members, see the [Teams page](https://github.com/orgs/EveryoneDestroysTheWorld/teams) in the GitHub organization.
 
 ## Producer
@@ -86,12 +95,33 @@ Christian Toney
   </tbody>
 </table>
 
+### Musicians
+<table>
+  <thead>
+    <tr>
+      <th align="left">Artist</th>
+      <th align="left">Track</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Christian Toney</td>
+      <td>Hyper Hammer</td>
+    </tr>
+    <tr>
+      <td>Hyper Hammer (Album Version)</td>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
 ## Special Thanks
 <table>
   <thead>
     <tr>
-      <th>Entity</th>
-      <th>Reason</th>
+      <th align="left">Entity</th>
+      <th align="left">Reason</th>
     </tr>
   </thead>
   <tbody>
