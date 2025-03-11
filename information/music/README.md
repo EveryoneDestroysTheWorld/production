@@ -6,7 +6,7 @@
 The album is called "Everyone Destroys the World Soundtrack".
 
 ## Music availability
-All album music should be distributed to Bandcamp, Spotify, SoundCloud, and YouTube Music.
+Upon the release of the game, all album music should be distributed to Bandcamp, Spotify, SoundCloud, and YouTube Music. The music should also be available for listening and download on the Everyone Destroys the World website.
 
 ## List of tracks
 | Track number | Track name | Artist | Length | 
