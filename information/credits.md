@@ -16,16 +16,17 @@ Christian Toney
 * naz
 
 ### Stage Designer
-Christian Toney
-
-### Additional Matchmaking Design
-Dylan "Quintt" Provenzano
+TBD
 
 ### Sound Designer
 Christian Toney
 
-### Web Designer
+### Story Writer
 Christian Toney
+
+### Screenplay Writers
+* Christian Toney
+* Elijah Rountree
 
 ## Technology Team
 ### Programmers
