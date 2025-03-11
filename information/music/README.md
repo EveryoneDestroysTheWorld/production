@@ -7,7 +7,7 @@ All album music should be distributed to Bandcamp, Spotify, SoundCloud, and YouT
 
 ## List of tracks
 | Track number | Track name | Artist | Length | 
-| :- | :- | :- | :- |
+| :-: | :- | :- | :- |
 | 1 | Recast | TBD | TBD |
 | 2 | Start Menu | TBD | TBD |
 | 3 | Legend of TRAIN | TBD | TBD |
