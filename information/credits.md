@@ -79,6 +79,10 @@ Christian Toney
       <td>ShatteredFlames</td>
       <td>TBD</td>
     </tr>
+    <tr>
+      <td>TBD</td>
+      <td>BOSSA NOVA, Cheerleader, Commander Python, Cutout, Dwaggy, Entro, Gui, Justice Coda, Klirk Angel, Lore, The Cursed Knight of Pure Destruction, The White Noise, Tolsmyth, unknown.webp, extra voices</td>
+    </tr>
   </tbody>
 </table>
 
