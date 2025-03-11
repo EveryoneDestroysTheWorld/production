@@ -26,7 +26,7 @@ Christian Toney
 
 ### Screenplay Writers
 * Christian Toney
-* Elijah Rountree
+* Elijah Rountree <sup>(tentative)</sup>
 
 ## Technology Team
 ### Programmers
@@ -66,6 +66,10 @@ Christian Toney
     <tr>
       <td>Brayden Hadley</td>
       <td>Commander Wolf</td>
+    </tr>
+    <tr>
+      <td>Evan Bywater <sup>(tentative)</sup></td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>InkyTheBlue</td>
