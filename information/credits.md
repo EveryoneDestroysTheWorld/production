@@ -54,8 +54,8 @@ Christian Toney
 <table>
   <thead>
     <tr>
-      <th>Person</th>
-      <th>Characters</th>
+      <th align="left">Person</th>
+      <th align="left">Characters</th>
     </tr>
   </thead>
   <tbody>
