@@ -15,7 +15,7 @@ All album music should be distributed to Bandcamp, Spotify, SoundCloud, and YouT
 | 5 | --- | TBD | 
 | 6 | Homeroom | TBD
 | - | Hyper Hammer | Christian Toney |
-| - | Hyper Hammer (Album Version) | TBD |
+| - | Hyper Hammer (Album Version) | Christian Toney |
 | - | Kairo's Room | TBD |
 | - | Tolsmyth's Theme | TBD |
 | - | iNITIALIZING... | TBD |
