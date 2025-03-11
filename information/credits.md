@@ -45,6 +45,11 @@ Christian Toney
 
 ## Audio Team
 ### Actors
+> [!NOTE]
+> The following roles are to be assigned: BOSSA NOVA, Cheerleader, Commander Python, Cutout, Dwaggy, Entro, Gui, Justice Coda, Klirk Angel, Lore, The Cursed Knight of Pure Destruction, The White Noise, Tolsmyth, and unknown.webp.
+>
+> See the [available jobs](https://github.com/EveryoneDestroysTheWorld/jobs/issues) for more information.
+
 <table>
   <thead>
     <tr>
@@ -63,6 +68,10 @@ Christian Toney
     </tr>
     <tr>
       <td>InkyTheBlue</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>ShatteredFlames</td>
       <td>TBD</td>
     </tr>
   </tbody>
