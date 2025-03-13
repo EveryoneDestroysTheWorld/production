@@ -33,7 +33,7 @@ Christian Toney
 ### Story Writer
 Christian Toney
 
-### Screenplay Writers
+### Script Writers
 * Christian Toney
 * Elijah Rountree <sup>(tentative)</sup>
 
@@ -64,7 +64,7 @@ Christian Toney
   <thead>
     <tr>
       <th align="left">Person</th>
-      <th align="left">Characters</th>
+      <th align="left">Character</th>
     </tr>
   </thead>
   <tbody>
@@ -77,8 +77,25 @@ Christian Toney
       <td>Commander Wolf</td>
     </tr>
     <tr>
-      <td>Evan Bywater <sup>(tentative)</sup></td>
-      <td>TBD</td>
+      <td rowspan="4">Evan Bywater <sup>(tentative)</sup></td>
+      <td>
+        BOSSA★NOVA <sup>(expressed interest)</sup>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Kilrk Angel <sup>(expressed interest)</sup>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Cutout <sup>(expressed interest)</sup>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        unknown.webp <sup>(expressed interest)</sup>
+      </td>
     </tr>
     <tr>
       <td>InkyTheBlue</td>
@@ -89,8 +106,78 @@ Christian Toney
       <td>TBD</td>
     </tr>
     <tr>
-      <td>TBD</td>
-      <td>BOSSA NOVA, Cheerleader, Commander Python, Cutout, Dwaggy, Entro, Gui, Justice Coda, Klirk Angel, Lore, The Cursed Knight of Pure Destruction, The White Noise, Tolsmyth, unknown.webp, extra voices</td>
+      <td rowspan="15">TBD</td>
+      <td>BOSSA★NOVA</td>
+    </tr>
+    <tr>
+      <td>
+        Cheerleader
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Commander Python
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Cutout
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Dwaggy
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Entro
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Gui
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Justice Coda
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Klirk Angel
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Lore
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The Cursed Knight of Pure Destruction
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The White Noise
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Tolsmyth
+      </td>
+    </tr>
+    <tr>
+      <td>
+        unknown.webp
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Extra voices
+      </td>
     </tr>
   </tbody>
 </table>
