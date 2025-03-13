@@ -54,7 +54,7 @@ Christian Toney
 Christian Toney
 
 ## Audio Team
-### Actors
+### Cast
 > [!NOTE]
 > The following roles are to be assigned: BOSSA NOVA, Cheerleader, Commander Python, Cutout, Dwaggy, Entro, Gui, Justice Coda, Klirk Angel, Lore, The Cursed Knight of Pure Destruction, The White Noise, Tolsmyth, and unknown.webp.
 >
