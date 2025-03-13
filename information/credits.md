@@ -69,8 +69,13 @@ Christian Toney
   </thead>
   <tbody>
     <tr>
-      <td>Christian Toney</td>
-      <td>SE-4942</td>
+      <td rowspan="2">Christian Toney</td>
+      <td>Entro</td>
+    </tr>
+    <tr>
+      <td>
+        SE-4942
+      </td>
     </tr>
     <tr>
       <td>Brayden Hadley</td>
@@ -106,7 +111,7 @@ Christian Toney
       <td>TBD</td>
     </tr>
     <tr>
-      <td rowspan="15">TBD</td>
+      <td rowspan="14">TBD</td>
       <td>BOSSA★NOVA</td>
     </tr>
     <tr>
@@ -127,11 +132,6 @@ Christian Toney
     <tr>
       <td>
         Dwaggy
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Entro
       </td>
     </tr>
     <tr>
