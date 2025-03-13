@@ -65,7 +65,7 @@ Christian Toney
 > [!NOTE]
 > The following roles are to be assigned: BOSSA NOVA, Cheerleader, Commander Python, Cutout, Dwaggy, Entro, Gui, Justice Coda, Klirk Angel, Lore, The Cursed Knight of Pure Destruction, The White Noise, Tolsmyth, and unknown.webp.
 >
-> See the [available jobs](https://github.com/EveryoneDestroysTheWorld/jobs/issues) for more information.
+> See the [available roles](https://github.com/EveryoneDestroysTheWorld/jobs/issues) for more information.
 
 <table>
   <thead>
