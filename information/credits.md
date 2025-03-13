@@ -82,7 +82,7 @@ Christian Toney
       <td>Commander Wolf</td>
     </tr>
     <tr>
-      <td rowspan="4">Evan Bywater <sup>(tentative)</sup></td>
+      <td rowspan="4">Evan Bywater</td>
       <td>
         BOSSA★NOVA <sup>(expressed interest)</sup>
       </td>
@@ -104,11 +104,11 @@ Christian Toney
     </tr>
     <tr>
       <td>InkyTheBlue</td>
-      <td>TBD</td>
+      <td>TBD <sup>(expressed interest to voice act, but didn't choose role yet)</sup></td>
     </tr>
     <tr>
       <td>ShatteredFlames</td>
-      <td>TBD</td>
+      <td>TBD <sup>(expressed interest to voice act, but didn't choose role yet)</sup></td>
     </tr>
     <tr>
       <td rowspan="14">TBD</td>
