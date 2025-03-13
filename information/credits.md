@@ -8,6 +8,9 @@
 > [!NOTE]
 > If only one person is credited to a role, the role name should be singular; otherwise, it should be plural.
 
+> [!TIP]
+> If you want to change your credit name, contact the producer or create a pull request.
+
 This is a list of credits, including collaborators and contributors from the past and present. These credits should be available on the Everyone Destroys the World website. For a list of the current team members, see the [Teams page](https://github.com/orgs/EveryoneDestroysTheWorld/teams) in the GitHub organization.
 
 ## Producer
