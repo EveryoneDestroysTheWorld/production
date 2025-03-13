@@ -56,6 +56,10 @@ Christian Toney
 ### 2D Artist
 Christian Toney
 
+### 3D Artists
+* Christian Toney
+* hati_bati
+
 ## Audio Team
 ### Cast
 > [!NOTE]
