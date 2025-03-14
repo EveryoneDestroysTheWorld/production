@@ -27,23 +27,26 @@ Christian Toney
 * InkyTheBlue
 * naz
 
-### Stage Designer
-TBD
-
-### Sound Designer
+### Level Designer
 Christian Toney
 
-### Story Writer
+### Sound Designer
 Christian Toney
 
 ### Script Writers
 * Christian Toney
 * Elijah Rountree <sup>(tentative)</sup>
 
+### Story Writer
+Christian Toney
+
 ## Technology Team
 ### Programmers
 * Christian Toney
 * hati_bati
+
+### Quality Assurance Testers
+TBD
 
 ## Visual Team
 ### Animators
