@@ -10,8 +10,20 @@ TBD
 #### Footer
 TBD
 
+### Credits page
+TBD
+
+### Home page
+TBD
+
+### Progress page
+TBD
+
 ### Soundtrack page
 There should be a page for visitors to listen to and find information about the Everyone Destroys the World Soundtrack. To increase reach and build an audience for the independent artists, the website should embed each song's applicable Soundcloud, Bandcamp, and YouTube pages instead of posting the .mp3 and .wav files directly. This will increase viewership on the third-party platforms so that they potentially recommend the soundtrack to other audiences.
+
+### Team page
+TBD
 
 ## Domains
 ### Primary domain
