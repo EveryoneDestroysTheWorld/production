@@ -210,8 +210,6 @@ Christian Toney
     <tr>
       <td>Hyper Hammer (Album Version)</td>
     </tr>
-    <tr>
-    </tr>
   </tbody>
 </table>
 
