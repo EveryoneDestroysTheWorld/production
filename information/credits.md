@@ -74,6 +74,10 @@ Christian Toney
   </thead>
   <tbody>
     <tr>
+      <td>BJH1205</td>
+      <td>Commander Wolf</td>
+    </tr>
+    <tr>
       <td rowspan="2">Christian Toney</td>
       <td>Entro</td>
     </tr>
@@ -81,10 +85,6 @@ Christian Toney
       <td>
         SE-4942
       </td>
-    </tr>
-    <tr>
-      <td>BJH1205</td>
-      <td>Commander Wolf</td>
     </tr>
     <tr>
       <td rowspan="4">Evan Bywater</td>
