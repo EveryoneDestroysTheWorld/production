@@ -30,12 +30,12 @@ Christian Toney
 ### Level Designer
 Christian Toney
 
-### Sound Designer
-Christian Toney
-
 ### Script Writers
 * Christian Toney
 * Elijah Rountree <sup>(tentative)</sup>
+
+### Sound Designer
+Christian Toney
 
 ### Story Writer
 Christian Toney
@@ -49,15 +49,12 @@ Christian Toney
 TBD
 
 ## Visual Team
-### Animators
-* Christian Toney
-* hati_bati
-
-### Builder
-Christian Toney
-
 ### 2D Artist
 Christian Toney
+
+### 3D Animators
+* Christian Toney
+* hati_bati
 
 ### 3D Artists
 * Christian Toney
