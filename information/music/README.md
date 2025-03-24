@@ -5,8 +5,21 @@
 ## Album name
 The album is called "Everyone Destroys the World Soundtrack".
 
-## Music availability
+## Distribution
+### Availability
 Upon the release of the game, all album music should be distributed to Bandcamp, Spotify, SoundCloud, and YouTube Music. The music should also be available for listening and download on the Everyone Destroys the World website.
+
+### Label
+If a distributor asks for the label, use "The Everyone Destroys the World Group".
+
+### Copyright
+If a distributor asks for copyright information (i.e. "C-line", "P-line", etc.), use "Beastslash LLC". 
+
+### Primary artist
+The primary artist should be whoever made the song. Do not include "Everyone Destroys the World" as an artist.
+
+### Producer
+The music producer should be the [video game producer](/information/collaboration/credits.md#producer).
 
 ## List of tracks
 | Track number | Track name | Artist | Length | 
