@@ -37,7 +37,7 @@ Christian Toney
 ### Sound Designer
 Christian Toney
 
-### Story editor
+### Story Editor
 Maxx_J <sup>(tentative)</sup>
 
 ### Story Writer
